@@ -1,11 +1,11 @@
 <h1 align="center">Hi , I'm MD IRTEZA RAHMAN</h1>
-<h3 align="center">Android Developer, Machine Learning, DevOps</h3>
+<h3 align="center">Web Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/irteza__14" target="blank"><img src="https://img.shields.io/twitter/follow/irteza__14?logo=twitter&style=for-the-badge" alt="irteza__14" /></a> </p>
 
 - 🔭 I’m currently working on **DevOps**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **JAVA, C++, KOTLIN & DART**
 
